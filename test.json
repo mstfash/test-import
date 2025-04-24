@@ -1,0 +1,17 @@
+{
+  "name": "test-import",
+  "version": "1.0.0",
+  "description": "Test project for GitHub Actions workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Error: no build specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "github-actions",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT"
+} 
