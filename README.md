@@ -28,4 +28,4 @@ The GitHub Actions workflow will automatically:
 - Build and push Docker images
 - Send Slack notifications 
 
-[https:google.com](test)
+[test](https:google.com)
